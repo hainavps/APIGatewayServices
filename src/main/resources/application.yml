@@ -27,4 +27,4 @@ server:
 
 eureka:
   instance:
-    hostname: localhost
+    hostname: ASP-springapigatewayservices-a676
